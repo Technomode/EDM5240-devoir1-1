@@ -34,3 +34,4 @@ for media in medias:
 		# print("SUCCÈS\nPour {}, on a {} posts-likes et {} posts-commentaires".format(media[0],str(nSources),str(nLikes)))
 	else:
 		print("***FUCK!!!\nPour {}, on a {} posts-likes et {} posts-commentaires".format(media[0],str(nSources),str(nLikes)))
+# Ajouter quelque chose
